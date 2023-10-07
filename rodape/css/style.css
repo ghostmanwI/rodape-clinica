@@ -1,0 +1,52 @@
+a{
+    color: white;
+
+}
+a:hover{
+
+    color: white;
+}
+
+a:link {
+text-decoration:none;
+}
+
+.bg-blue {
+    background-color: #0c800e;
+}
+
+h4{
+    color:#fffbfb;
+    font-weight: bold;
+
+}
+
+.rodape{
+    height: 35vh;
+}
+
+.navbar-links{
+    font-size: 1.2em;
+    color: white;
+
+}
+.rodape-links{
+    font-size: 1.2em;
+    color:white;
+}
+
+.rodape-titulos{
+    font-size: 1.7em;
+}
+.navbar-links:hover{
+    color: #10a413;
+}
+
+.pagina-inicial{
+    color: #10a413;
+    font-size: 1.25em;
+}
+
+.backgreen{
+    color: #10a413;
+}
